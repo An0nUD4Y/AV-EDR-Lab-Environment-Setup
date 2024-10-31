@@ -58,3 +58,7 @@
         - BeaconEye : https://github.com/CCob/BeaconEye
         - BeaconHunter : https://github.com/3lp4tr0n/BeaconHunter
     - EtwTi-FluctuationMonitor - Doing VirtualAlloc(RWX) changes CFG bitmap accordingly and then after VirtualAlloc(RW) CFG stays the same :  https://github.com/jdu2600/EtwTi-FluctuationMonitor
+
+- Signature Detection Bypass
+    - ThreatCheck : [https://github.com/PACHAKUTlQ/ThreatCheck](https://github.com/PACHAKUTlQ/ThreatCheck?tab=readme-ov-file)
+    - AvRed : https://github.com/dobin/avred
