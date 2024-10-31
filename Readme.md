@@ -1,6 +1,6 @@
+# AV/EDR Lab Environment Setup
 | Notion Notes : https://an0nud4y.notion.site/AV-EDR-Lab-Env-Setup-130bc870022d8071935cc682d3eb34b9?pvs=4
 
-## AV/EDR Lab Environment Setup
 
 - An example of things that can be used to emulate certain features that paid edrs have:
     - SACL - sysmon
