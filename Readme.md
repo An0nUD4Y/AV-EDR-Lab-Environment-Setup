@@ -14,6 +14,7 @@
         - https://github.com/jackullrich/syscall-detect
         - hook the current process to identify the manual syscall executions on windows : https://github.com/paranoidninja/Process-Instrumentation-Syscall-Hook
     - process/pescans - yapscan/hoard as many yara rules as you can
+        - DetectItEasy(DIE) :  https://github.com/horsicq/Detect-It-Easy
     - etw  providers/Consumers -
         - silketw : https://otterhacker.github.io/Malware/ETW.html
         - ETWInspector : https://github.com/jsecurity101/ETWInspector
