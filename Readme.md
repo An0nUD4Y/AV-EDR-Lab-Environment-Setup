@@ -1,4 +1,5 @@
 # AV/EDR Lab Environment Setup
+| Initially taken from Maldev Academy Discord and added more resources.
 | Notion Notes : https://an0nud4y.notion.site/AV-EDR-Lab-Env-Setup-130bc870022d8071935cc682d3eb34b9?pvs=4
 
 
