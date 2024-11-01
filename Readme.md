@@ -72,7 +72,7 @@
         - https://sensepost.com/blog/2024/sensecon-23-from-windows-drivers-to-an-almost-fully-working-edr/
 - Open Source EDRs Comparison by [@dobin](https://github.com/dobin)
     
-    ![382052565-b997301d-55c6-467d-8b0c-8f4604b9ba13.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/772fa77a-75f8-4f94-96aa-755fcd3ac75d/ba91b77d-0e6f-44a8-8c7d-c5a7f18c9be4/382052565-b997301d-55c6-467d-8b0c-8f4604b9ba13.png)
+    ![Open-Source-EDR-Comparison.png](https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup/blob/main/Images/Open-Source-EDR-Comparison.png)
     
 
 - Process Memory Scanners
@@ -115,12 +115,12 @@
 - Polonium : A tool from Modern Initial Access and Evasion Tactics course by Binary-Offensive (@mariuszbit). https://github.com/sponsors/mgeeky
 - EDR Hooks Telemetry
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/772fa77a-75f8-4f94-96aa-755fcd3ac75d/4133621c-fef7-449a-8ebb-7cbb902f3c2f/image.png)
+    <img src="https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup/blob/main/Images/EDR-Hooks-Telemetry.png" alt="EDR-Hooks-Telemetry" width="500"/>
     
     - Taken from : https://github.com/helviojunior/hookchain/blob/main/HookChain_en_v1.5.pdf
 - Gartner’s Magic Quadrant for EDR Platforms
-    
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/772fa77a-75f8-4f94-96aa-755fcd3ac75d/553e7716-15f0-4eea-8e73-ce7f635080cd/image.png)
+  
+    <img src="https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup/blob/main/Images/Gartner's-Magic-Quadrant.png" alt="Gartner's-Magic-Quadrant" width="500"/>
     
     - Taken From : https://github.com/helviojunior/hookchain/blob/main/HookChain_en_v1.5.pdf
 
