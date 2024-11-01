@@ -127,4 +127,4 @@
 
 ## Credits
 - Thanks to MaldevAcademy Discord Members for initial List
-- Thanks to [@dobin](https://github.com/dobin) , For Providing a list of more resources and EDR Comparison table.
+- Thanks to [@dobin](https://github.com/dobin) , For Providing a list of additional resources and open Source EDR Comparison table.
