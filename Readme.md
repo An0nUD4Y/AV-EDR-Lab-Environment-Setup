@@ -56,7 +56,7 @@
     - Avast
     - openEDR - Comodo Free EDR
     - Wazuh : https://github.com/wazuh/wazuh
-    - Huntress Managed EDR - (15 Days Free trial , No Credit card Required, 3 High/Critical incident reports by realtime SOC analysts) (Shared by @fin3ss3g0d): https://www.huntress.com/edr-free-trial
+    - Huntress Managed EDR - (15 Days Free trial , No Credit card Required, 3 High/Critical incident reports by realtime SOC analysts) : https://www.huntress.com/edr-free-trial
 - Open Source EDRs
     - RedEDR : https://github.com/dobin/RedEdr
     - SimpleEDR - Manual DLL Hooking to find Detection Opportunity : https://github.com/Helixo32/SimpleEDR
