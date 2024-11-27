@@ -40,7 +40,7 @@
     - Trace API calls - TinyTracer
         - https://github.com/hasherezade/tiny_tracer
 - Collect Windows Telemetry for Maldev
-    - Collects telemetry like , ETW, ETW-TI, Kernel Callbacks, Hooks, Callstacks, Loaded DLLs, PEB) : https://github.com/dobin/RedEdr (Check other projects by author)
+    - Collects telemetry like , ETW, ETW-TI, Kernel Callbacks, Hooks, Callstacks, Loaded DLLs, PEB) : https://github.com/dobin/RedEdr , RedEDR UI (https://github.com/dobin/RedEdrUi) (Check other projects by author)
 - **Free Trials EDR/AV Products**
     - Microsoft Defender For Endpoint
         - https://medium.com/@hackenbacker/creating-a-defender-for-endpoint-lab-for-free-695044b75bd6
@@ -56,6 +56,7 @@
     - Avast
     - openEDR - Comodo Free EDR
     - Wazuh : https://github.com/wazuh/wazuh
+    - Huntress Managed EDR - (15 Days Free trial , No Credit card Required, 3 High/Critical incident reports by realtime SOC analysts) (Shared by @fin3ss3g0d): https://www.huntress.com/edr-free-trial
 - Open Source EDRs
     - RedEDR : https://github.com/dobin/RedEdr
     - SimpleEDR - Manual DLL Hooking to find Detection Opportunity : https://github.com/Helixo32/SimpleEDR
@@ -74,7 +75,9 @@
     
     ![Open-Source-EDR-Comparison.png](https://github.com/An0nUD4Y/AV-EDR-Lab-Environment-Setup/blob/main/Images/Open-Source-EDR-Comparison.png)
     
-
+- Image Load Events Scanners
+    - Hunt-Weird-ImageLoads : https://github.com/thefLink/Hunt-Weird-ImageLoads
+      
 - Process Memory Scanners
     - PE-sieve : https://github.com/hasherezade/pe-sieve
     - Moneta : https://github.com/forrest-orr/moneta
@@ -87,12 +90,19 @@
         - BeaconEye : https://github.com/CCob/BeaconEye
         - BeaconHunter : https://github.com/3lp4tr0n/BeaconHunter
     - EtwTi-FluctuationMonitor - Doing VirtualAlloc(RWX) changes CFG bitmap accordingly and then after VirtualAlloc(RW) CFG stays the same :  https://github.com/jdu2600/EtwTi-FluctuationMonitor
+        - https://github.com/jdu2600/CFG-FindHiddenShellcode
+        - https://github.com/jdu2600/Etw-SyscallMonitor
     - TiEtwAgent (Detect Memory injection based on ETW-TI) : https://github.com/xuanxuan0/TiEtwAgent
 
 - Signature Detection Bypass
     - ThreatCheck : [https://github.com/PACHAKUTlQ/ThreatCheck](https://github.com/PACHAKUTlQ/ThreatCheck?tab=readme-ov-file)
     - AvRed : https://github.com/dobin/avred
 
+
+## Malware Development Machine Setup
+
+- Avoid using windows if you are worried about windows telemetry while writing your malware.
+- Tiny11Builder (To remove many windows unnecessary components including telemetry) (Taken from [here](https://silentwarble.com/posts/making-monsters-1/)) : https://github.com/ntdevlabs/tiny11builder
 
 
 ## AV/EDR Internals/ Telemetry/Benchmarking/Working
@@ -128,3 +138,4 @@
 ## Credits
 - Thanks to MaldevAcademy Discord Members for initial List
 - Thanks to [@dobin](https://github.com/dobin) , For Providing a list of additional resources and open Source EDR Comparison table.
+- Thanks to [@fin3ss3g0d](https://github.com/fin3ss3g0d) , For sharing about huntress Managed EDR Trial offer.
