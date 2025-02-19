@@ -16,9 +16,13 @@
     - Detecting manual syscalls from usermode
         - https://github.com/jackullrich/syscall-detect
         - hook the current process to identify the manual syscall executions on windows : https://github.com/paranoidninja/Process-Instrumentation-Syscall-Hook
+        - Hunt-Weird-Syscalls : https://github.com/thefLink/Hunt-Weird-Syscalls
     - PROCESS/PESCAN
         - Yapscan - hoard as many yara rules as you can
         - DetectItEasy(DIE) :  https://github.com/horsicq/Detect-It-Easy
+    - AMSI Provider
+        - AMSI Provider : https://github.com/jborean93/AmsiProvider
+          
     - ETW-TI/ETW  Providers/Consumers -
         - silketw : https://otterhacker.github.io/Malware/ETW.html
         - ETWInspector : https://github.com/jsecurity101/ETWInspector
@@ -30,6 +34,8 @@
         - PyWinTrace (ETW python Library) : https://github.com/fireeye/pywintrace
         - EtwExplorer (View ETW Providers Manifest) : https://github.com/zodiacon/EtwExplorer
         - TelemetrySourcerer (enumerate and disable common sources of telemetry used by AV/EDR, Including ETW , User-ModeHooks, Kernel Callbacks) : https://github.com/jthuraisamy/TelemetrySourcerer
+        - MentalTi (ETWTi Parser) : https://github.com/mannyfred/MentalTi
+        - PockETWatcher : https://github.com/olafhartong/PockETWatcher
         - ETW Resources
             - Contains resources to learn and understand EVTX/ETW (Event Tracing for Windows) : https://github.com/nasbench/EVTX-ETW-Resources
     - KERNEL CALLBACKS -
@@ -67,6 +73,7 @@
     - BestEDROfTheMarket : https://github.com/Xacone/BestEdrOfTheMarket
     - JonMon : https://github.com/jsecurity101/JonMon
     - SylantStrike : https://github.com/CCob/SylantStrike
+    - Whids : https://github.com/0xrawsec/whids
     - Write your own EDR
         - https://blog.whiteflag.io/blog/from-windows-drivers-to-a-almost-fully-working-edr/
         - https://youtube.com/playlist?list=PLc2_LEyTNutFkUliQMTZ_FHl8kNx3f5-E&si=8kHcC_FIxccHBR5H
